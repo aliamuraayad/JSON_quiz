@@ -1,7 +1,5 @@
 # JSON_quiz
 
-# OOP BookList
-
 A simple Beyonce trivia quiz!!!!!
 
 **Link to project:** https://alia-json-quiz.netlify.com/quiz.html
