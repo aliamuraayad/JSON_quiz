@@ -16,6 +16,8 @@ Using **ES6**, I created a simple Beyonce trivia quiz application with clean cod
 
 If I were to make changes in this application, I would definitely store highest score/scoreboard information on the server instead of using localStorage. Though localStorage was efficient, considering this was a front-end project, business logic is generally best executed on the server so that nobody can cheat using the console.
 
+I also did this same project with one added optimization, which was retrieving my questions and answers from the Open Trivia DB, check it out here: https://github.com/aliaabdulahi/openTriviaAPI_quiz
+
 ## Lessons Learned:
 
 I learned a very simple and clean way to use the sort() method in a real-world application.
