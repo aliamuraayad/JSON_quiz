@@ -1,0 +1,42 @@
+[
+  {
+    "question": "In which song did Beyoncé sing, 'Cause if you like it, then you shoulda put a ring on it'?",
+    "choice1": "Jealous",
+    "choice2": "All Night",
+    "choice3": "Single Ladies",
+    "choice4": "Me, Myself, and I",
+    "answer": 3
+  },
+  {
+    "question": "In which Beyoncé song did she begin with the infamous lyrics: 'To the left, to the left'?",
+    "choice1": "Party",
+    "choice2": "Sorry",
+    "choice3": "Check On It",
+    "choice4": "Irreplaceable",
+    "answer": 4
+  },
+  {
+    "question": "What female athlete starred in Beyoncé's video 'Sorry'?",
+    "choice1": "Danica Patrick",
+    "choice2": "Serena Williams",
+    "choice3": "Simone Biles",
+    "choice4": "Ronda Rousey",
+    "answer":2
+  },
+  {
+    "question": "What was the name of Beyoncé's most recent collaborative album with Jay-Z?",
+    "choice1": "Everything is Love",
+    "choice2": "Bonnie & Clyde",
+    "choice3": "Lemonade",
+    "choice4": "4:44",
+    "answer": 1
+  },
+  {
+    "question": "What was the name of the hit girl group Beyoncé was apart of before going solo?",
+    "choice1": "Cheetah Girls",
+    "choice2": "TLC",
+    "choice3": "Danity Kane",
+    "choice4": "Destiny's Child",
+    "answer":4
+  }
+]
