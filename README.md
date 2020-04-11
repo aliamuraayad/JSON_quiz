@@ -10,11 +10,11 @@ A simple Beyonce trivia quiz!!!!!
 
 **Tech used:** HTML5, CSS3, ES6, Fetch API, localStorage, array methods
 
-Using **ES6s**, I created a simple Beyonce trivia quiz application with clean code. The question/answer bank were saved in a **JSON** file, and pulled using the **fetch API**. The quiz has multiple views: a home page, a scoreboard, and the actual quiz questions. Makes use of **clean UI**, **semantic HTML5**, and **CSS3** for an efficient user experience. The high scores are saved in **localStorage** and 5 are displayed at a time on the scoreboard. The latest high scores are always shown, using the **sort() method to sort them in descending order** and the **splice() method** to cut off scores as new high scores are made. 
+Using **ES6**, I created a simple Beyonce trivia quiz application with clean code. The question/answer bank were saved in a **JSON** file, and pulled using the **fetch API**. The quiz has multiple views: a home page, a scoreboard, and the actual quiz questions. Makes use of **clean UI**, **semantic HTML5**, and **CSS3** for an efficient user experience. The high scores are saved in **localStorage** and 5 are displayed at a time on the scoreboard. The latest high scores are always shown, using the **sort() method to sort them in descending order** and the **splice() method** to cut off scores as new high scores are made. 
 
 ## Optimizations
 
-If I were to make changes in this application, I would definitely store highest score/scoreboard information on the server instead of using localStorage. Though localStorage was efficient, considering this was a front-end project, business logic is generally best executed on the server so that nobody can cheat.
+If I were to make changes in this application, I would definitely store highest score/scoreboard information on the server instead of using localStorage. Though localStorage was efficient, considering this was a front-end project, business logic is generally best executed on the server so that nobody can cheat using the console.
 
 ## Lessons Learned:
 
