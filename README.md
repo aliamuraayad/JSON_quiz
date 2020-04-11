@@ -2,7 +2,7 @@
 
 A simple Beyonce trivia quiz!!!!!
 
-**Link to project:** https://alia-json-quiz.netlify.com/quiz.html
+**Link to project:** https://alia-json-quiz.netlify.com/
 
 ![alt tag](quiz.png)
 
